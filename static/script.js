@@ -181,3 +181,4 @@ document.addEventListener("keydown", function(event) {
         sendMessage();
     }
 });
+// TripMate AI: Handles frontend interactions and travel planning requests.

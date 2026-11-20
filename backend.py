@@ -260,3 +260,4 @@ def run_travel_agent(user_input: str, thread_id: str | None = None):
         "itinerary": result.get("itinerary", ""),
         "llm_calls": result.get("llm_calls", 0),
     }
+# TripMate AI: Coordinates travel planning agents, flight search and Tavily integration.
