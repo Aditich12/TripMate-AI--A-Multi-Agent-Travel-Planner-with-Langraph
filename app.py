@@ -113,3 +113,5 @@ if __name__ == "__main__":
         port=8000,
         reload=True
     )
+
+# TripMate AI: Main application entry point and user interface routing.    
